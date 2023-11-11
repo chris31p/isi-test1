@@ -49,6 +49,10 @@ section {
     border-radius: 5px;
 }
 
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
